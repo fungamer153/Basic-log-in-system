@@ -34,8 +34,6 @@ int main() {
     std::cout << "Password failed, try again." << "\n";
     goto Start;
   }
-  
-  //std::cout << m["Joe"] << '\n';
-  
+    
   return 0;
 }
